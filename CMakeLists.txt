@@ -1,5 +1,5 @@
 cmake_minimum_required (VERSION 3.0)
-project(HA1)
+project(Farn)
 
 # Prevent compilation in-source
 if( ${CMAKE_BINARY_DIR} STREQUAL ${PROJECT_SOURCE_DIR} )
