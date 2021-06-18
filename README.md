@@ -10,4 +10,4 @@ cmake ..
 make
 ```
 
-After successfull compelation you can generate a nice fractal by execution `./Farn`.
+After successfull compilation you can generate a nice fractal by execution `./Farn`.
